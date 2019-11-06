@@ -1,0 +1,12 @@
+2019-11-04T15:59:07+00:00 CRITICAL Uncaught Error: Call to undefined function colibriwp_theme() in /var/www/wordpress/wp-content/plugins/colibri-page-builder/extend-builder/customizer/editor-data/index.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/class-wp-hook.php(286): ExtendBuilder\{closure}(Array)
+#1 /var/www/wordpress/wp-includes/plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#2 /var/www/wordpress/wp-content/plugins/colibri-page-builder/extend-builder/customizer/editor-data/index.php(148): apply_filters('extendbuilder_w...', Array)
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(286): ExtendBuilder\{closure}('')
+#4 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /var/www/wordpress/wp-admin/customize.php(173): do_action('customize_contr...')
+#7 {main}
+  thrown dans /var/www/wordpress/wp-content/plugins/colibri-page-builder/extend-builder/customizer/editor-data/index.php à la ligne 100
+

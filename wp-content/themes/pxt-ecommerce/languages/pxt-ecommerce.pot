@@ -1,0 +1,984 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pxt-ecommerce 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/pxt-ecommerce\n"
+"POT-Creation-Date: 2017-10-27 08:50:11+00:00\n"
+"PO-Revision-Date: 2017-11-13 06:50:11+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language: English\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: class-tgm-plugin-activation.php:
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "This theme requires the following plugins: %1$s."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "This theme recommends the following plugins: %1$s."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "There are updates available for the following plugins: %1$s."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Begin installing plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Begin installing plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Begin updating plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Begin updating plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Begin activating plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Begin activating plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Update Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Active"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Required Update not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Update recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Install/Update Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "unknown"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "as in: \"version nr unknown\""
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Return to the dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Install %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Update %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Activate %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+
+#: class-tgm-plugin-activation.php:
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "The following plugins were activated successfully:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: store-page.php:63
+msgid "Slider"
+msgstr ""
+
+#: store-page.php:68
+msgid "80% off for sellect items"
+msgstr ""
+
+#: store-page.php:63
+msgid "Slider"
+msgstr ""
+
+#: store-page.php:68
+msgid "80% off for sellect items"
+msgstr ""
+
+#: store-page.php:69
+msgid "Fashion mega sale"
+msgstr ""
+
+#: store-page.php:83
+msgid "Previous"
+msgstr ""
+
+#: store-page.php:87
+msgid "Next"
+msgstr ""
+
+#: store-page.php:97
+msgid "Categories"
+msgstr ""
+
+#: store-page.php:137, 191
+msgid "Please install woocommerce plugin."
+msgstr ""
+
+#: store-page.php:97
+msgid "Products"
+msgstr ""
+
+#: store-page.php:97
+msgid "No products to show."
+msgstr ""
+
+#: 404.php:7
+msgid "Error 404 Page Not Found'"
+msgstr ""
+
+#: 404.php:9
+msgid "Oops! You Requested the page is no longer available."
+msgstr ""
+
+#: 404.php:10
+msgid "Please check the URL you entered or use the search form below"
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Please enter the password to view comments for the post."
+msgstr ""
+
+#: comments.php:18
+msgid "No Comments Available"
+msgstr ""
+
+#: comments.php:18
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:18 
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:43
+msgid "Add your comment"
+msgstr ""
+
+#: comments.php:44
+msgid "Post a comment"
+msgstr ""
+
+#: comments.php:46
+msgid "Comment:"
+msgstr ""
+
+#: footer.php:27
+msgid "Y"
+msgstr ""
+
+#: footer.php:30
+msgid "Back to Top"
+msgstr ""
+
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: functions.php:103
+msgid "Sidebar-4"
+msgstr ""
+
+#: functions.php:113
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:114
+msgid "First footer column"
+msgstr ""
+
+#: functions.php:124
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:125
+msgid "Second footer column"
+msgstr ""
+
+#: functions.php:134
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:135
+msgid "Third footer column"
+msgstr ""
+
+#: functions.php:146
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: functions.php:147
+msgid "Appears on Shop main page and product archive pages"
+msgstr ""
+
+#: functions.php:155
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: functions.php:156
+msgid "Appears on single product pages."
+msgstr ""
+
+#: functions.php:245       
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:250
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:295
+msgid "Read More"
+msgstr ""
+
+#: functions.php:312
+msgid "Home"
+msgstr ""
+
+#: functions.php:460
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions.php:461
+msgid "%d item"
+msgid_plural "%d items"
+msgstr ""
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:513
+msgid "Featured"
+msgstr ""
+
+#: functions.php:513
+msgid "Dismiss this notice."
+msgstr ""
+
+#: functions.php:513
+msgid "View your shopping cart"
+msgstr ""
+
+#: header.php:21
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:57
+msgid "Toggle navigation"
+msgstr ""
+
+#: search.php:24
+msgid "No Records Found"
+msgstr ""
+
+#: search.php:26
+msgid "Sorry, but no match found for your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for..."
+msgstr ""
+
+#: searchform.php:4 sidebar.php:12
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:26
+msgid "Meta"
+msgstr ""
+
+#: single.php:45
+msgid "Next page"
+msgstr ""
+
+#: single.php:46
+msgid "Previous page"
+msgstr ""
+
+#: single.php:37
+msgid "Tags"
+msgstr ""
+
+#: single.php:67
+msgid "Similar Posts"
+msgstr ""
+
+#: single.php:108
+msgid "About The Author"
+msgstr ""
+
+#: extras.php:9
+msgid "Paradox Themes"
+msgstr ""
+
+#: extras.php:37
+msgid "Theme issues?"
+msgstr ""
+
+#: extras.php:39
+msgid "If you are having theme related problems then please contact us through our"
+msgstr ""
+
+#: extras.php:39
+msgid "contact form"
+msgstr ""
+
+#: extras.php:39
+msgid "which can be found at"
+msgstr ""
+
+#: extras.php:41
+msgid "Need more help?"
+msgstr ""
+
+#: extras.php:43
+msgid "Pxt business Premium"
+msgstr ""
+
+#: extras.php:44
+msgid "Contact Paradox themes"
+msgstr ""
+
+#: extras.php:45
+msgid "WordPress Support Forum"
+msgstr ""
+
+#: extras.php:47
+msgid "Plugin or WordPress issues?"
+msgstr ""
+
+#: extras.php:48
+msgid "If you are experiencing issues with plugins, please contact the plugin author. 
+If you are experiencing issues with WordPress functionality then please visit the"
+msgstr ""
+
+#: extras.php:49
+msgid "WordPress Support Forum"
+msgstr ""
+
+#: pxt-customizer.php: 18-customizer.php: 19
+msgid "Theme Design Options"
+msgstr ""
+
+#: pxt-customizer.php: 23
+msgid "Help & Contact"
+msgstr ""
+
+#: pxt-customizer.php: 25
+msgid "Theme issues?"
+msgstr ""
+
+#: pxt-customizer.php: 25
+msgid "If you are having theme related problems then please contact us through our"
+msgstr ""
+
+#: pxt-customizer.php: 25
+msgid "contact form"
+msgstr ""
+
+#: pxt-customizer.php: 25
+msgid "which can be found at"
+msgstr ""
+
+#: pxt-customizer.php: 25
+msgid "Plugin or WordPress issues?"
+msgstr ""
+
+#: pxt-customizer.php: 25
+msgid "If you are experiencing issues with plugins, please contact the plugin author. If you are experiencing issues with WordPress functionality then please visit the"
+msgstr ""
+
+#: pxt-customizer.php: 25
+msgid "WordPress Support Forum"
+msgstr ""
+
+#: pxt-customizer.php: 60
+msgid "Pxt business Premium"
+
+#: pxt-customizer.php: 62
+msgid "<a href=\"http://www.paradoxthemes.com/free/pxt-ecommerce\" target=\"_blank\" style=\"display:block;\"><img src=\"%s/images/pxt-ecommerce.png\"></a>"
+
+#: pxt-customizer.php: 63
+msgid "All Blog Posts Settings"
+
+#: pxt-customizer.php: 70
+msgid "General Layout"
+msgstr ""
+
+#: pxt-customizer.php: 82
+msgid "Sidebar Position"
+msgstr ""
+
+#: pxt-customizer.php: 82
+msgid "Slider Section"
+msgstr ""
+
+#: pxt-customizer.php: 86
+msgid "Right Sidebar"
+msgstr ""
+
+#: pxt-customizer.php: 87
+msgid "Left Sidebar"
+msgstr ""
+
+#: pxt-customizer.php: 98
+msgid "Header Background Color"
+msgstr ""
+
+#: pxt-customizer.php: 99
+msgid "Applied to header background."
+msgstr ""
+
+#: pxt-customizer.php: 107
+msgid "Primary Color Scheme"
+msgstr ""
+
+#: pxt-customizer.php: 117
+msgid "Secondary Color Scheme"
+msgstr ""
+
+#: pxt-customizer.php: 130
+msgid "Posts on Homepage"
+msgstr ""
+
+#: pxt-customizer.php: 134
+msgid "Excerpts"
+msgstr ""
+
+#: pxt-customizer.php: 135
+msgid "Full Posts"
+msgstr ""
+
+#: pxt-customizer.php: 141
+msgid "Colors"
+msgstr ""
+
+#: pxt-customizer.php: 148
+msgid "Header"
+msgstr ""
+
+#: pxt-customizer.php: 155 pxt-customizer.php: 168
+msgid "Pagination Type"
+msgstr ""
+
+#: pxt-customizer.php: 173
+msgid "Next/Previous"
+msgstr ""
+
+#: pxt-customizer.php: 174
+msgid "Numbered"
+msgstr ""
+
+#: pxt-customizer.php: 183
+msgid "Footer"
+msgstr ""
+
+#: pxt-customizer.php: 190
+msgid "Copyright 2017 - Powered By WordPress"
+msgstr ""
+
+#: pxt-customizer.php: 195
+msgid "Copyright Text"
+msgstr ""
+
+#: pxt-customizer.php: 196
+msgid "You can write your copyright own text or leave it blank."
+msgstr ""
+
+#: pxt-customizer.php: 203
+msgid "Single Post Settings"
+msgstr ""
+
+#: pxt-customizer.php: 216
+msgid "Breadcrumb Section"
+msgstr ""
+
+#: pxt-customizer.php: 221 pxt-customizer.php: 238 pxt-customizer.php: 255 pxt-customizer.php: 271
+msgid "OFF"
+msgstr ""
+
+#: pxt-customizer.php: 222 pxt-customizer.php: 239 pxt-customizer.php: 256 pxt-customizer.php: 272
+msgid "ON"
+msgstr ""
+
+#: pxt-customizer.php: 233
+msgid "Tags Section"
+msgstr ""
+
+#: pxt-customizer.php: 250
+msgid "Related Posts Section"
+msgstr ""
+
+#: pxt-customizer.php: 267
+msgid "Author box Section"
+msgstr ""
+
+#: pxt-customizer.php: 267
+msgid "Hide Title and description on slider"
+msgstr ""
+
+#: pxt-customizer.php: 267
+msgid "Yes"
+msgstr ""
+
+#: pxt-customizer.php: 267
+msgid "No"
+msgstr ""
+
+#: pxt-customizer.php: 
+msgid "Select Image"
+msgstr ""
+
+#: pxt-customizer.php: 
+msgid "Recommended Image Size: 1900X600px"
+msgstr ""
+
+#: pxt-customizer.php: 
+msgid "Slider Title"
+msgstr ""
+
+#: pxt-customizer.php: 
+msgid "Slieder description"
+msgstr ""
+
+#: template-tags.php: 13
+msgid "Posted in %1$s"
+msgstr ""
+
+#: template-tags.php: 18
+msgid "Tagged %1$s"
+msgstr ""
+
+#: template-tags.php: 23
+msgid "Leave a comment"
+msgstr ""
+
+#: template-tags.php: 23
+msgid "1 Comment"
+msgstr ""
+
+#: template-tags.php: 23
+msgid "% Comments"
+msgstr ""
+
+#: template-tags.php: 29
+msgid "Edit %s"
+msgstr ""
+
+#: template-tags.php: 62
+msgid "Posts navigation"
+msgstr ""
+
+#: template-tags.php: 65
+msgid "Old posts"
+msgstr ""
+
+#: template-tags.php: 68
+msgid "Latest posts "
+msgstr ""
+
+#: template-tags.php: 91
+msgid "Posted on %s"
+msgstr ""
+
+#: template-tags.php: 95
+msgid "by %s"
+msgstr ""
+
+#: widget/socialMediaIcons.php:42
+msgid "Facebook URL"
+msgstr ""
+
+#: widget/socialMediaIcons.php:46
+msgid "Flickr URL"
+msgstr ""
+
+#: widget/socialMediaIcons.php:50
+msgid "Google Plus URL"
+msgstr ""
+
+#: widget/socialMediaIcons.php:54
+msgid "Pinterest URL"
+msgstr ""
+
+#: widget/socialMediaIcons.php:58
+msgid "Instagram URL"
+msgstr ""
+
+#: widget/socialMediaIcons.php:62
+msgid "Dribbble URL"
+msgstr ""
+
+#: widget/socialMediaIcons.php:66
+msgid "Linkedin URL"
+msgstr ""
+
+#: widget/socialMediaIcons.php:70
+msgid "Skype URL"
+msgstr ""
+
+#: widget/socialMediaIcons.php:74
+msgid "Email URL"
+msgstr ""
+
+#: widget/socialMediaIcons.php:78
+msgid "RSS URL"
+msgstr ""
+
+#: widget/socialMediaIcons.php:82
+msgid "Soundcloud URL"
+msgstr ""
+
+#: widget/socialMediaIcons.php:86
+msgid "Twitter URL"
+msgstr ""
+
+#: widget/socialMediaIcons.php:90
+msgid "YouTube URL"
+msgstr ""
+
+#: widget/socialMediaIcons.php:94
+msgid "Tumblr URL"
+msgstr ""
+
+#: widget/socialMediaIcons.php:100
+msgid "Social Media Icons"
+msgstr ""
+
+#: widget/socialMediaIcons.php:101
+msgid "Show the social media profiles"
+msgstr ""
+
+#: widget/socialMediaIcons.php:114
+msgid "Follow Us On"
+msgstr ""
+
+#: widget/socialMediaIcons.php:117
+msgid "Title:"
+msgstr ""
+
+#: widget/socialMediaIcons.php:120
+msgid "Open links in new window?"
+msgstr ""

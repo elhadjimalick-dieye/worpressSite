@@ -1,0 +1,20 @@
+li#accordion-panel-panel_id h3.accordion-section-title,
+li#accordion-section-pxt_ecommerce_prem h3.accordion-section-title,
+li#accordion-section-pxt_ecommerce_prem_inner h3.accordion-section-title,
+li#accordion-section-pxt_ecommerce_new h3.accordion-section-title{
+	background:#494ca4!important;
+	border-left-color:#323471!important;
+	color:#fff!important
+}
+li#accordion-section-pxt_ecommerce_prem h3.accordion-section-title:after{
+	color:#fff!important
+}
+li#accordion-section-pxt_ecommerce_new h3.accordion-section-title:after{
+	color:#fff!important
+}
+li#accordion-panel-panel_id h3.accordion-section-title:after{
+	color:#fff!important
+}
+li#accordion-section-pxt_ecommerce_prem_inner h3.accordion-section-title:after{
+	color:#fff!important
+}

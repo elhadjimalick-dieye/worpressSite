@@ -1,0 +1,14 @@
+#team-member-info .team-member-address,
+#team-member-info .team-member-phone,
+#team-member-info .team-member-email,
+#team-member-info .team-member-url {
+	display: none;
+}
+
+.post-type-portfolio_showcase .wp-list-table .column-shortcode {
+	display: none;
+}
+
+.post-type-portfolio_showcase #portfolio-showcase-shortcode {
+	display: none;
+}
